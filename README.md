@@ -8,7 +8,7 @@ This program illustrates several interesting concepts as was the original intent
 
 All features of the original Ch. 5 DEMO program are implemented by the dialog control.  The original program ran from a DOS command line.  Options originally specified by command line arguments are implemented using the dialog.  Original program colors are preserved with black added as a way to do a crude erase.  
 
-Images can be saved as a *.png and used for all sorts of things.  Below is an example.
+Images can be saved as a *.png and used for all sorts of things.  Below is an example.  Resizing the window changes the size of the saved image.  The visible area is saved.
 
 ![Example *.png](https://github.com/KeithHayes/ProceduralSnowflakes/blob/main/SnowflakeCurves/example.png?raw=true)
 
