@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/stylesheet">
+        <file>qss/stylesheet.css</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>qss/swatch/btnAqua.png</file>
+        <file>qss/swatch/btnBlue.png</file>
+        <file>qss/swatch/btnBrown.png</file>
+        <file>qss/swatch/btnDkGrey.png</file>
+        <file>qss/swatch/btnDkRed.png</file>
+        <file>qss/swatch/btnGreen.png</file>
+        <file>qss/swatch/btnLime.png</file>
+        <file>qss/swatch/btnLtGrey.png</file>
+        <file>qss/swatch/btnOrange.png</file>
+        <file>qss/swatch/btnPink.png</file>
+        <file>qss/swatch/btnPlum.png</file>
+        <file>qss/swatch/btnTeal.png</file>
+        <file>qss/swatch/btnViolet.png</file>
+        <file>qss/swatch/btnWhite.png</file>
+        <file>qss/swatch/btnYellow.png</file>
+        <file>qss/swatch/btnBlack.png</file>
+    </qresource>
+</RCC>

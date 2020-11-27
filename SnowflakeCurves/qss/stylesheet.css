@@ -1,0 +1,128 @@
+QWidget {
+  background-color: black;
+  color: grey;
+}
+
+QLabel, QRadioButton, QCheckBox{
+  color: grey;
+}
+
+QCheckBox::indicator:unchecked {
+    border: 1px solid #555555;
+    background: none;
+}
+
+QCheckBox::indicator:checked {
+    border: 1px solid #aaaaaa;
+    background: none;
+}
+
+QSpinBox, QDoubleSpinBox {
+  background: #555555;
+  color: #cccccc;
+}
+
+QLineEdit {
+  background: #555555;
+  color: #cccccc;
+}
+
+QPushButton {
+  background: #555555;
+  color: #cccccc;
+  selection-background-color: #555555;
+}
+
+QRadioButton::indicator {
+  width:10px;
+  height: 10px;
+  border-radius: 7px;
+}
+
+QRadioButton::indicator:checked {
+  background-color: #aaaaaa;
+  border: 2px solid #aaaaaa;
+}
+
+QRadioButton::indicator:unchecked {
+  background-color: black;
+  border: 2px solid #555555;
+}
+
+QSlider::handle {
+  background-color: #aaaaaa; height:16px; width: 16px;
+}
+
+QSlider::groove::vertical {
+  background-color: #444444;
+  width: 8px;
+}
+
+QSlider::handle:vertical {
+  margin: 0 -4px;
+}
+
+QSlider::groove::horizontal {
+  background-color: #444444;
+  height: 8px;
+}
+
+QSlider::handle:horizontal {
+  margin: -4px 0;
+}
+
+#viewScreen { 
+  border: none;
+}
+#selectedColor {
+  background: #FAD200;
+}
+#btnBlack {
+  border-image: url(":/icons/qss/swatch/btnBlack.png");
+}
+#btnBlue {
+  border-image: url(":/icons/qss/swatch/btnBlue.png");
+}
+#btnGreen {
+border-image: url(":/icons/qss/swatch/btnGreen.png");
+}
+#btnTeal {
+border-image: url(":/icons/qss/swatch/btnTeal.png");
+}
+#btnDkGrey {
+border-image: url(":/icons/qss/swatch/btnDkGrey.png");
+}
+#btnViolet {
+border-image: url(":/icons/qss/swatch/btnViolet.png");
+}
+#btnLime {
+border-image: url(":/icons/qss/swatch/btnLime.png");
+}
+#btnAqua {
+border-image: url(":/icons/qss/swatch/btnAqua.png");
+}
+#btnDkRed {
+border-image: url(":/icons/qss/swatch/btnDkRed.png");
+}
+#btnPlum {
+border-image: url(":/icons/qss/swatch/btnPlum.png");
+}
+#btnBrown {
+border-image: url(":/icons/qss/swatch/btnBrown.png");
+}
+#btnLtGrey {
+border-image: url(":/icons/qss/swatch/btnLtGrey.png");
+}
+#btnOrange{
+border-image: url(":/icons/qss/swatch/btnOrange.png");
+}
+#btnPink {
+border-image: url(":/icons/qss/swatch/btnPink.png");
+}
+#btnYellow {
+border-image: url(":/icons/qss/swatch/btnYellow.png");
+}
+#btnWhite {
+border-image: url(":/icons/qss/swatch/btnWhite.png");
+}
+
