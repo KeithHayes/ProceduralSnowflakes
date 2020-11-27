@@ -8,5 +8,5 @@ All features of the original Ch, 5 DEMO program are implemented by a dialog cont
 
 Images can be saved as a *.png and used for all sorts of things.
 
-
+![Example *.png](https://github.com/KeithHayes/ProceduralSnowflakes/blob/main/SnowflakeCurves/example.png?raw=true)
 
