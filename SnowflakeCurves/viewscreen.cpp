@@ -52,7 +52,7 @@ void ViewScreen::receiveFlake(Flake flake) {
 }
 
 QSize ViewScreen::minimumSizeHint() const {
-    return QSize(800,800);
+    return QSize(75,75);
 }
 
 QSize ViewScreen::sizeHint() const {
