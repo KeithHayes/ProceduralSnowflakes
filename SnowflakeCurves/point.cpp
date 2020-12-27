@@ -1,5 +1,4 @@
 #include "point.h"
-
 #include <QtMath>
 
 void Point::rotate(float angle) {
